@@ -1,4 +1,5 @@
-# hdx-scraper-healthsite
+# DEPRECATED - Pipeline discontinued
+## hdx-scraper-healthsite
 This application is using the HDX and the Healthsites Global Mappging Project APIs to automate the process of country data extraction from healthsites and sharing to HDX platform.
 See :
 - [HDX Python Library API documentation](https://github.com/OCHA-DAP/hdx-python-api)
